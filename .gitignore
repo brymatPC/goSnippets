@@ -1,0 +1,14 @@
+/.settings/*
+.DS_Store
+*~
+*.bak
+*.tmp
+*.log
+*.orig
+*.scratch
+*.bak
+*.exe
+
+/pkg/
+
+/.vscode/
