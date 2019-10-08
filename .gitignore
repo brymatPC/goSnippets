@@ -12,3 +12,6 @@
 /pkg/
 
 /.vscode/
+
+armbin/
+winbin/
