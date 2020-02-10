@@ -1,4 +1,4 @@
-module goSnippets
+module ipserver
 
 go 1.13
 
@@ -7,4 +7,4 @@ require (
 	ipchan v0.0.0
 )
 
-replace ipchan v0.0.0 => ./src/ipchan/
+replace ipchan v0.0.0 => ../ipchan/
